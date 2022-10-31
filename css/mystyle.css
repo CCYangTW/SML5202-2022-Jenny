@@ -2,3 +2,18 @@
   color: #FFE6CC; 
   background-color: #42A5B6;
 }
+
+.navbar {
+  color: #42A5B6; 
+  background-color: #FFE6CC;
+}
+
+.btn {
+  background-color: #42A5B6;
+}
+
+.btn :hover {
+  color: white;
+  background-color: #45cfe6;
+  
+}
