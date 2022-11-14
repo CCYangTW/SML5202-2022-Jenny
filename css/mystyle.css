@@ -1,6 +1,6 @@
 .myBanner {
-  color: #FFE6CC; 
-  background-color: #42A5B6;
+  background-color: #f7cc90;
+  background-image: linear-gradient(346deg, #f7cc90 0%, #ffe6cc 100%);
 }
 
 .navbar {
